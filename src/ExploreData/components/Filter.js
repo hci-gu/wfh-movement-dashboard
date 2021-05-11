@@ -18,7 +18,7 @@ const optionsForKey = (key) => {
         '95-104',
       ]
     case 'gender':
-      return ['male', 'female']
+      return ['Male', 'Female']
     default:
       return []
   }

@@ -1,4 +1,4 @@
-import { Input, InputNumber, Select } from 'antd'
+import { InputNumber, Select } from 'antd'
 import React from 'react'
 import { useRecoilState } from 'recoil'
 import styled from 'styled-components'

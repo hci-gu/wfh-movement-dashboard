@@ -1,4 +1,3 @@
-import { Select } from 'antd'
 import styled from 'styled-components'
 import React from 'react'
 import { Line } from '@ant-design/charts'
